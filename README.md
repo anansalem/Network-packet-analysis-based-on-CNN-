@@ -1,4 +1,3 @@
-# Network-packet-analysis-based-on-CNN-
 
 # Intrusion Detection System using LSTM (Supervised Learning)
 
